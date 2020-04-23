@@ -1,0 +1,32 @@
+{
+  "Hikayeler": [
+    {
+      "id": "15",
+      "baslik": "Güzel ile Çirkin",
+      "aciklama": "Once upon a time there were a merchant dad and his three daughters living together. One day, the father would go to far away for a couple days and he asked his daughters about what they want.",
+      "thumbnail": "217453.jpg",
+      "sesdosyasi": "aa.mp3",
+      "kategori": "2",
+      "tarih": "2018-05-04 12:12:27"
+    },
+    {
+      "id": "59",
+      "baslik": "SNOW WHITE",
+      "aciklama": "A queen gives birth to a daughter. She names her Snow White. The queen dies. Snow White’s father marries an evil woman. This evil queen has a magic mirror that tells her she is the fairest in the land.",
+      "thumbnail": "418322.jpg",
+      "sesdosyasi": "bb.mp3",
+      "kategori": "3",
+      "tarih": "2018-10-17 22:46:33"
+    },
+    {
+      "id": "57",
+      "baslik": "Bilinçaltı Engelleri Kaldırma ve Hedeflerine Ulaşma Meditasyonu",
+      "aciklama": "Bu meditasyonun amacı bilinçaltında saklı kalan engelleri kaldırmak ve bizi hedeflerimize yaklaştırmaktır.",
+      "thumbnail": "269815.jpg",
+      "sesdosyasi": "test.mp3",
+      "kategori": "3",
+      "tarih": "2018-10-17 22:30:07"
+    }
+   
+  ]
+}
