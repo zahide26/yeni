@@ -2,32 +2,41 @@
   "Hikayeler": [
     {
       "id": "15",
-      "baslik": "Güzel ile Çirkin",
-      "aciklama": "Once upon a time there were a merchant dad and his three daughters living together. One day, the father would go to far away for a couple days and he asked his daughters about what they want.",
-      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/english-142fd.appspot.com/o/217453.jpg?alt=media&token=dc44b826-3bc8-4abc-9a6a-5d2c60968275",
-
-      "sesdosyasi": "https://firebasestorage.googleapis.com/v0/b/english-142fd.appspot.com/o/aa.lite.mp3?alt=media&token=1d65e09e-b502-41aa-be56-b3c623f50a35",
-      "kategori": "2",
+      "baslik": "A Good Night’s Sleep",
+      "aciklama": "Host: At exam time it is important to sleep well. Today we have Doctor Baker with us in the studio and he is going to give us five top tips for getting a good night’s sleep. Welcome to the show, Doctor Baker. Dr Baker: Thank you. It’s great to be here. Let’s start with tip one. Don’t go to bed with the television on. Some people think they can sleep well with the TV on, but the noise and lights mean you don’t really sleep well, so turn it off! Tip two: Don’t think too much before bedtime. Do your hardest homework earlier in the evening. Do easier homework later. If your brain is too busy and full of ideas it takes longer to get to sleep. Tip three: Don’t play video games for an hour before you go to sleep. They also make your brain too busy and active. Tip four: Turn off your cell phone when you go to bed. What is so important that it can’t wait until the morning? If possible, leave your phone in another room. Tip five: Play music if you like. But don’t play it too loud. Turn the sound down low. Host: Thank you, Doctor. That is very useful advice for our young listeners",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/english-142fd.appspot.com/o/good_night.jpg?alt=media&token=79a3577e-2772-42d5-8bdb-a381e28523bb",
+      "sesdosyasi": "https://firebasestorage.googleapis.com/v0/b/english-142fd.appspot.com/o/LearnEnglish%20Teens%20-%20Listening%20skills%20practice%20-%20A1%20-%20A%20good%20night%20sleep.mp3?alt=media&token=8872b689-1816-454c-8c09-c13cc1b7e63d",
+      "kategori": "1",
       "tarih": "2018-05-04 12:12:27"
     },
     {
-      "id": "59",
-      "baslik": "SNOW WHITE",
-      "aciklama": "A queen gives birth to a daughter. She names her Snow White. The queen dies. Snow White’s father marries an evil woman. This evil queen has a magic mirror that tells her she is the fairest in the land.",
-      "thumbnail": "418322.jpg",
+      "id": "16",
+      "baslik": "Interview With A Swimmer",
+      "aciklama": "Interviewer: Hello, Dan.Dan: Hi.Interviewer: Can you tell me about a typical day in your life for the school magazine?Dan: Yeah, sure.Interviewer: So, what time do you get up?Dan: Oh, I get up very early. I get up every day at 5 o’clock and go to the pool. Then I swim from 6 o’clock to 8 o’clock. Interviewer: You get up at 5 o’clock? Wow, that’s early! Dan: Yeah. Then at 8 o’clock I have a shower, I get dressed and I have breakfast. I have a big breakfast: cereals, toast, bacon and eggs and orange juice. Interviewer: What do you do after breakfast? Dan: At 11 o’clock I go to university. I’m studying sports science and I have classes from 11 o’clock to 4 o’clock. Interviewer: When do you have lunch? Dan: I have lunch at about 2 o’clock at the university. Interviewer: What do you do after classes? Dan: Sometimes I go to the gym and sometimes I meet my friends at a café. Interviewer: What time do you have dinner? Dan: I have dinner at 7 o’clock, then I watch TV or go online and I usually go to bed at 10 o’clock. Interviewer: Thanks, Dan. That’s a busy day!",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/english-142fd.appspot.com/o/swimmers.jpg?alt=media&token=e30a9663-4c93-4c83-85e0-6718d22f6363",
+      "sesdosyasi": "https://firebasestorage.googleapis.com/v0/b/english-142fd.appspot.com/o/A1_interview_with_a_swimmer.mp3?alt=media&token=33a6aebf-5186-43e7-82f0-e68c01e9d34a",
+
+      "kategori": "1",
+      "tarih": "2018-05-04 12:12:27"
+    },
+    {
+      "id": "5",
+      "baslik": "Study Tips",
+      "aciklama": "Ben: You always get good marks at school. You’re lucky! I study but I don’t always get good marks. Katy: I’m not lucky! I know how to study. I always do three things. Do you want to know them? Ben: Yeah, please! Katy: OK, number one. Always study in a quiet place. Ben: I usually study in my bedroom. It’s very quiet. Katy: Number two. Have a clear desk! Ben: Right. A clear desk. My desk isn’t clear. There are lots of papers and books and pens on it. Katy: Well, that isn’t very good! Ben: What’s tip number three? Katy: Have lots of breaks. I always study for thirty minutes. Then I have a break for five minutes. I move my arms and legs and drink some water. Then I study again for thirty minutes. Ben: I never have a break. I sometimes study for two or three hours.  Katy: That isn’t a good idea! It’s important to get up and move your body. Ben: OK. Thanks. Next time I think I can get good marks!",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/english-142fd.appspot.com/o/study_tips.jpg?alt=media&token=82faac01-2be4-4983-a275-ed32bb0cd8ec",
       "sesdosyasi": "bb.mp3",
-      "kategori": "3",
+      "kategori": "1",
       "tarih": "2018-10-17 22:46:33"
     },
     {
-      "id": "57",
-      "baslik": "Bilinçaltı Engelleri Kaldırma ve Hedeflerine Ulaşma Meditasyonu",
-      "aciklama": "Bu meditasyonun amacı bilinçaltında saklı kalan engelleri kaldırmak ve bizi hedeflerimize yaklaştırmaktır.",
-      "thumbnail": "269815.jpg",
-      "sesdosyasi": "test.mp3",
-      "kategori": "3",
+      "id": "5",
+      "baslik": "Eating Out ",
+      "aciklama": "Waiter: Hello. Jamie: Hi. A table for two, please. Waiter: Of course. Over here, please. Here’s the menu. Sally: Thank you. (pause) Waiter: Are you ready to order? Sally: Yes, we are. Waiter: What would you like for your starter? Jamie: I’d like French onion soup, please. Sally: And I’ll have a tomato salad, please. Waiter: And for your main course? Jamie: Mmm, I’m not sure. I don’t know whether to have the steak or Thai chicken. Sally: Oh, I’d like the Thai chicken and rice please. Jamie: OK, me too. Waiter: So that’s two Thai chicken and rice. What would you like to drink? Jamie: I’ll have a fresh orange juice and ... Sally: I’d like some mineral water, please. Waiter: OK, thank you.",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/english-142fd.appspot.com/o/eating.jpg?alt=media&token=f0ca28ec-e326-4c6d-ae1a-8b0a0485b015",
+      "sesdosyasi": "https://firebasestorage.googleapis.com/v0/b/english-142fd.appspot.com/o/A2_eating_out.mp3?alt=media&token=edba7a69-db07-4602-9982-88661183b299",
+      "kategori": "2",
       "tarih": "2018-10-17 22:30:07"
     }
-   
+
   ]
 }
